@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+h1{
+  font-size: 60px;
+  font-family: 'Nanum Pen Script', cursive;
+  position: relative;
+  left: 30px;
+}
+
+#myButton{
+  margin-bottom: 50px;
+  background: linear-gradient(to right, salmon, teal);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: 'Jost', sans-serif;
+}
+
+body{
+    background: linear-gradient(to right, teal, salmon);
+    color: #FFCEDF;
+    font-size: 30px;
+    font-family: 'Nanum Pen Script', cursive;
+    position: relative;
+    left: 38%;
+}
+
+#myButtonTwo{
+background-color: #57B8BF;
+border: none;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 15px;
+font-family: 'Jost', sans-serif;
+}
+
+
+
+#outputText {
+}
